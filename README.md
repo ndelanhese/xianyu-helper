@@ -1,17 +1,21 @@
-# 📦 Slet Xianyu Helper v1.9.1
+# 📦 Slet Xianyu Helper v1.9
 
-O melhor assistente para importadores que utilizam o ecossistema Xianyu (Goofish).
+Assistente de análise de hardware e conversão de valores para Goofish (Xianyu) e CSSBuy.
 
 ## ✨ Funcionalidades
-* **Análise de Vendedor**: Lógica especial para vendedores VIP (+10k vendas).
-* **Conversão Dinâmica**: Suporte para faixas de preço (ex: 949 - 1299 Yuan).
-* **Segurança**: Detecção visual de MDM e status de selado.
+* **Análise de Hardware**: Identifica RAM e SSD automaticamente.
+* **Detecção de MDM**: Alerta visual piscante para dispositivos bloqueados.
+* **Conversor de Moeda**: Conversão de Yuan para Real com taxa ajustável.
+* **Integração CSSBuy**: Botão direto para ver o item original na Xianyu.
 
-## 🛡️ Licença e Autoria
-Este software é de autoria de **Slet** e está licenciado sob **CC BY-NC-SA 4.0**.
-**PROIBIDA A VENDA.** O uso comercial não autorizado está sujeito a medidas legais.
+## 🛡️ Licença e Propriedade
+Este projeto está sob a licença **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**.
+
+**Regras estritas:**
+1. **Atribuição**: Deve dar o crédito ao autor original (**Slet**).
+2. **Uso Não Comercial**: É terminantemente **proibida a venda** deste software ou de versões derivadas.
+3. **Compartilha Igual**: Qualquer modificação deve ser publicada sob esta mesma licença.
 
 ---
-### 🔗 Redes Sociais
-* [Instagram](https://www.instagram.com/slet_import/)
-* [Discord](https://discord.gg/KbkyMm2fgT)
+### 💬 Contato
+Dúvidas ou sugestões? Entre no nosso [Discord](https://discord.gg/KbkyMm2fgT)
