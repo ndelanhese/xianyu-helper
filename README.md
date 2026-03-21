@@ -1,4 +1,4 @@
-# 📦 Slet Xianyu Helper v1.9.1
+# 📦 Slet Xianyu Helper v1.9.9
 
 O melhor assistente para importadores que utilizam o ecossistema Xianyu (Goofish).
 
